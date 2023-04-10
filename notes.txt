@@ -1,0 +1,6 @@
+qn: do the cars use 3 phase or single phase
+brand_id
+usable_battery_size
+usable_phases
+max_power
+average_consumption
